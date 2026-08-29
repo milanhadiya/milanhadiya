@@ -120,31 +120,9 @@ Tools
 
 Git, GitHub, VS Code, npm
 
-🎓 Education
-
-Master of Computer Applications (MCA)
-
-SAL Institute of Technology and Engineering Research, Gujarat
-Final Year • Expected Graduation: [ADD YEAR]
-
-Bachelor of Computer Applications (BCA)
-
-SDJ International College, Surat
-Graduation Year: [ADD YEAR]
 
 
-📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/milanhadiyaor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milanhadiyaor&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/milanhadiyaor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milanhadiyaor&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</a>
-
-</div>
 
 📍 Location
 
