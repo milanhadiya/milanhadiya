@@ -163,23 +163,6 @@ To begin a career as a Full Stack/Web Developer where I can apply my knowledge o
 
 </div>
 
-
-🧠 Development Focus
-
-<div align="center">
-
-Frontend Development  ████████████████████  React.js
-Backend Development   ████████████████████  Node.js • Express.js • Laravel • PHP
-API Development       ████████████████████  REST API • JSON • JWT
-Databases             ████████████████████  MySQL • MongoDB
-Web Architecture      ████████████████████  MVC • CRUD
-
-</div>
-
-🏆 Professional Snapshot
-
-
-
 Details
 
 🎓 Education
