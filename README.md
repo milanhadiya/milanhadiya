@@ -164,20 +164,6 @@ To begin a career as a Full Stack/Web Developer where I can apply my knowledge o
 </div>
 
 
-🚀 Projects
-
-Projects are not listed in the supplied resume.
-Add your actual GitHub projects here rather than inventing project details.
-
-<!--
-### Project Name
-Short description of the project.
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
-
-[View Repository](https://github.com/milanhadiyaor/REPOSITORY-NAME)
--->
-
 🧠 Development Focus
 
 <div align="center">
