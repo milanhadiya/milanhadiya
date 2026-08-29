@@ -132,23 +132,6 @@ Bachelor of Computer Applications (BCA)
 SDJ International College, Surat
 Graduation Year: [ADD YEAR]
 
-🎯 Areas of Interest
-
-Full Stack Web Development
-
-Backend Development with Node.js and Laravel
-
-Frontend Development with React.js
-
-REST API Development
-
-Database Management
-
-Web Application Development
-
-💼 Career Objective
-
-To begin a career as a Full Stack/Web Developer where I can apply my knowledge of React.js, Node.js, Express.js, Laravel, PHP, databases, and REST APIs while developing scalable and user-focused web applications and continuously improving my technical skills.
 
 📊 GitHub Analytics
 
@@ -162,28 +145,6 @@ To begin a career as a Full Stack/Web Developer where I can apply my knowledge o
 </a>
 
 </div>
-
-Details
-
-🎓 Education
-
-Final-year MCA
-
-💼 Experience
-
-Fresher
-
-🧑‍💻 Internship
-
-None
-
-📜 Certifications
-
-None
-
-🎯 Target Roles
-
-Full Stack Developer • Node.js Developer • React.js Developer • Laravel/PHP Developer
 
 📍 Location
 
