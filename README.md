@@ -163,41 +163,6 @@ To begin a career as a Full Stack/Web Developer where I can apply my knowledge o
 
 </div>
 
-📈 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milanhadiyaor&theme=github_dark" alt="Profile Details" width="95%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=milanhadiyaor&theme=github_dark" alt="Repositories per Language" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milanhadiyaor&theme=github_dark" alt="Most Commit Language" width="45%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=milanhadiyaor&theme=github_dark" alt="GitHub Stats Summary" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milanhadiyaor&theme=github_dark&utcOffset=5.5" alt="Productive Time" width="45%" />
-
-</div>
-
-📉 Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/milanhadiyaor">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milanhadiyaor&bg_color=0D1117&color=58A6FF&line=2F80ED&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" />
-</a>
-
-</div>
-
-📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2F80ED/milanhadiyaor" alt="GitHub Contribution Calendar" width="95%" />
-
-</div>
 
 🚀 Projects
 
